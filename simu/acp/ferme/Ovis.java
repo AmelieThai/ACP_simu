@@ -55,7 +55,7 @@ public class Ovis extends Animal {
     }
 
     public static void main(String[] args) {
-        System.out.println("--- Test Ovis (Refactored) ---");
+        System.out.println("--- Test Ovis (Refactorisé) ---");
         Ovis o1 = new Ovis("Dolly");
         System.out.println(o1);
         o1.hi();
